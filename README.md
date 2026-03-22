@@ -27,9 +27,9 @@
 
 | Projet | Description | Lien |
 |--------|------------|------|
-| 🌐 **Souffle** | Réseau social communautaire (Web + App PlayStore) | [souffle.vercel.app](https://souffle.vercel.app/feed/) |
-| 🏢 **AJEC-BF** | Plateforme pour association | [ajec-bf.vercel.app](https://ajec-bf.vercel.app/) |
-| 📸 **Relmars Group** | Portfolio entreprise de photographie | [relmarsgroup.vercel.app](https://relmarsgroup.vercel.app/) |
+| 🌐 **Souffle** | Réseau social communautaire (Web + App PlayStore) | [https://play.google.com/store/apps/details?id=com.souffle.app](https://play.google.com/store/apps/details?id=com.souffle.app/) |
+| 🏢 **AJEC-BF** | Plateforme pour association | [ajecburkina.org](https://ajecburkina.org/) |
+| 📸 **Relmars Group** | Portfolio entreprise de photographie | [relmarsgroup.com](https://relmarsgroup.com/) |
 | 🧾 **MaFacture** | Plateforme de génération de factures | [mafacture.vercel.app](https://mafacture.vercel.app/) |
 | 👤 **Portfolio GK** | Portfolio professionnel | [gustavekonate.netlify.app](https://gustavekonate.netlify.app/) |
 
