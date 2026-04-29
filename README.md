@@ -28,6 +28,7 @@
 | Projet | Description | Lien |
 |--------|------------|------|
 | 🌐 **Souffle** | Réseau social communautaire (Web + App PlayStore) | [https://play.google.com/store/apps/details?id=com.souffle.app](https://play.google.com/store/apps/details?id=com.souffle.app) |
+| 🌐 **M'Sébré** | Réseau communautaire pour rétrouvé vos documents perdu (App PlayStore) | [https://play.google.com/store/apps/details?id=com.msebre.app](https://play.google.com/store/apps/details?id=com.msebre.app) |
 | 🏢 **AJEC-BF** | Plateforme pour association | [ajecburkina.org](https://ajecburkina.org/) |
 | 📸 **Relmars Group** | Portfolio entreprise de photographie | [relmarsgroup.com](https://relmarsgroup.com/) |
 | 🧾 **MaFacture** | Plateforme de génération de factures | [mafacture.vercel.app](https://mafacture.vercel.app/) |
