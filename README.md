@@ -31,6 +31,7 @@
 | 🌐 **M'Sébré** | Réseau communautaire pour rétrouvé vos documents perdu (App PlayStore) | [https://play.google.com/store/apps/details?id=com.msebre.app](https://play.google.com/store/apps/details?id=com.msebre.app) |
 | 🏢 **AJEC-BF** | Plateforme pour association | [ajecburkina.org](https://ajecburkina.org/) |
 | 📸 **Relmars Group** | Portfolio entreprise de photographie | [relmarsgroup.com](https://relmarsgroup.com/) |
+| 📸 **Wabelkaa Institute** | Institut de langue | [wabelkaa.com](https://wabelkaa.com/) |
 | 🧾 **MaFacture** | Plateforme de génération de factures | [mafacture.vercel.app](https://mafacture.vercel.app/) |
 | 👤 **Portfolio GK** | Portfolio professionnel | [gustavekonate.netlify.app](https://gustavekonate.netlify.app/) |
 | 👤 **Messagérie Couple** | Messagerie pour couple | [Nous2.netlify.app](https://Nous2.netlify.app/) |
